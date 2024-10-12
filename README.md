@@ -25,8 +25,8 @@ Make sure you have the following installed.
 
 1. Clone the repository:
    ```bash
-      git clone https://github.com/yourusername/YourGameName.git
-      cd YourGameName
+      git clone git clone https://github.com/dask-58/15.puzzle.git
+      cd 15.puzzle
    ```
 
 2. Create a build directory:
