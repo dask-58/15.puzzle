@@ -6,7 +6,7 @@ int main() {
     window.setFramerateLimit(60);
 
     sf::Texture T;
-    if (!T.loadFromFile("Images/15.png")) {
+    if (!T.loadFromFile("/usr/local/share/15Puzzle/15.png")) {
         std::cerr << "Error loading texture" << std::endl;
         return -1;
     }
