@@ -9,14 +9,14 @@ Make sure you have the following installed.
 ### On Unix-like systems (Linux, macOS)
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/dask-58/15.puzzle.git
-   cd 15.puzzle
+   ```bash
+      git clone https://github.com/dask-58/15.puzzle.git
+      cd 15.puzzle
    ```
 
 2. Run the installation script:
-   ```
-  ./install.sh
+   ```bash
+    ./install.sh
    ```
 
    This script will build and install the game for you.
@@ -24,28 +24,28 @@ Make sure you have the following installed.
 ### On Windows
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/YourGameName.git
-   cd YourGameName
+   ```bash
+      git clone https://github.com/yourusername/YourGameName.git
+      cd YourGameName
    ```
 
 2. Create a build directory:
-   ```
-   mkdir build
-   cd build
+   ```bash
+      mkdir build
+      cd build
    ```
 
 3. Configure the project:
-   ```
-   cmake ..
+   ```bash
+      cmake ..
    ```
 
 4. Build the project:
-   ```
-   cmake --build .
+   ```bash
+      cmake --build .
    ```
 
 5. Install the project:
-   ```
-   cmake --install .
+   ```bash
+      cmake --install .
    ```
