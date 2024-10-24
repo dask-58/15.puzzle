@@ -1,8 +1,8 @@
 Make sure you have the following installed.
 
-* You have installed CMake (version 3.10 or later)
-* You have installed SFML (version 2.5 or later)
-* You have a C++17 compatible compiler
+* CMake (version 3.10 or later)
+* SFML (version 2.5 or later)
+* C++17 compatible compiler
 
 ## Installation
 
@@ -10,8 +10,7 @@ Make sure you have the following installed.
 
 1. Clone the repository:
    ```bash
-      git clone https://github.com/dask-58/15.puzzle.git
-      cd 15.puzzle
+      git clone https://github.com/dask-58/15.puzzle.git && cd 15.puzzle
    ```
 
 2. Run the installation script:
